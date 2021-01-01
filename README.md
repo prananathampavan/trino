@@ -21,7 +21,7 @@
 * Java 11.0.7+, 64-bit
 * Docker
 
-## Building Presto
+## Building Presto 1
 
 Presto is a standard Maven project. Simply run the following command from the
 project root directory:
