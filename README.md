@@ -58,7 +58,7 @@ properly configured for the project:
   does not yet use Java 11 language features)
 
 Presto comes with sample configuration that should work out-of-the-box for
-development. Use the following options to create a run configuration:
+development. Use the following options to create a run configuration::
 
 * Main Class: `io.prestosql.server.PrestoServer`
 * VM Options: `-ea -XX:+UseG1GC -XX:G1HeapRegionSize=32M -XX:+UseGCOverheadLimit -XX:+ExplicitGCInvokesConcurrent -Xmx2G -Dconfig=etc/config.properties -Dlog.levels-file=etc/log.properties -Djdk.attach.allowAttachSelf=true`
