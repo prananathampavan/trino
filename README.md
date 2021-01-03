@@ -88,7 +88,7 @@ Then add the following to the list of VM options:
     -Dhive.metastore.thrift.client.socks-proxy=localhost:1080
     -Dhive.hdfs.socks-proxy=localhost:1080
 
-#### Running the CLI
+## Running the CLI
 
 Start the CLI to connect to the server and run SQL queries:
 
