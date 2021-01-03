@@ -107,4 +107,4 @@ database `default`:
 ## Development
 
 See [DEVELOPMENT](./DEVELOPMENT.md) for information about code style,
-development process & guidelines.
+development process & guidelines..
