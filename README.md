@@ -15,13 +15,13 @@
    </a>
 </p>
 
-## Build requirements
+## Build requirements 
 
 * Mac OS X or Linux
 * Java 11.0.7+, 64-bit
 * Docker
 
-## Building Presto
+## Building Presto 
 
 Presto is a standard Maven project. Simply run the following command from the
 project root directory:
@@ -38,6 +38,7 @@ amount of time to run. You can disable the tests when building:
     ./mvnw clean install -DskipTests
 
 ## Running Presto in your IDE
+##
 
 ### Overview
 
